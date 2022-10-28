@@ -1,0 +1,25 @@
+h1 {
+    border: 2px #eee solid;
+    color: ghostwhite;
+    text-align: center;
+    padding: 10px;
+    font-style: Serif;
+
+}
+
+body {
+    background-color: rgb(66, 18, 241);
+
+}h1 {
+    border: 2px #eee solid;
+    color:black;
+    text-align: center;
+    padding: 10px;
+    font-style: Serif;
+
+}
+
+body {
+    background-color: rgb(18, 241, 156);
+
+}
